@@ -1,0 +1,28 @@
+# main links
+main:
+  - title: "Инструменты"
+    url: /tools/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+tools:
+  - title: Сканирование сети
+    children:
+      - title: "Сканеры"
+        url: /tools/scanners/
+      - title: "Поиск диапазонов IP"
+        url: /tools/ip-range/
+  - title: Анализ находок
+    children:
+      - title: "Анализ веб-сайта"
+        url: "/tools/analyze_website/"
+  - title: Архивация
+    children:
+      - title: "Архивация веб-сайта"
+        url: "/tools/archive_website/"
