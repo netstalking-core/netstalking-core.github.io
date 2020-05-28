@@ -69,7 +69,7 @@ Core Python Web Archiving Toolkit for replay and recording of web archives
 
 Утилита с исходным кодом на языке Go
 
-[https://git.autistici.org/ale/crawl/]
+<https://git.autistici.org/ale/crawl/>
 
 ## Teleport Pro
 
