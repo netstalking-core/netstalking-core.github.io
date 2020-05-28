@@ -2,14 +2,8 @@
 main:
   - title: "Инструменты"
     url: /tools/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Сообщество"
+    url: /community/
 
 tools:
   - title: Сканирование сети
@@ -26,3 +20,21 @@ tools:
     children:
       - title: "Архивация веб-сайта"
         url: "/tools/archive_website/"
+
+community:
+  - title: Конференции и сообщества / Тематика
+    children:
+      - title: "Точка Сбора"
+        url: /community/ts/
+      - title: "Network neighborhood"
+        url: /community/netwhood/
+      - title: "Asleep"
+        url: /community/asleep/
+      - title: "H.I.D.D.E.N"
+        url: /community/H.I.D.D.E.N/
+  - title: Каналы / Тематика
+    children:
+      - title: "viewpoint"
+        url: /community/viewpoint/
+      - title: "Горизонт Событий"
+        url: /community/darknet_prison/
