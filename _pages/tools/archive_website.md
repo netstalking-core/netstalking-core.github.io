@@ -10,6 +10,10 @@ permalink: /tools/archive_website/
 
 # Немного об архивации
 
+Обзорная статья на Хабре: [Архивирование веб-сайтов](https://habr.com/ru/post/431222/)
+
+Формат WARC: [Archive Team \| The WARC Ecosystem](https://archiveteam.org/index.php?title=The_WARC_Ecosystem) 
+
 ## Archive Team
 
 Группа волонтёров, занимающихся архивацией интернета.
@@ -60,6 +64,12 @@ Core Python Web Archiving Toolkit for replay and recording of web archives
 Используется в Wayback Machine
 
 Ссылка: [pywb](https://github.com/webrecorder/pywb)
+
+## crawl
+
+Утилита с исходным кодом на языке Go
+
+[https://git.autistici.org/ale/crawl/]
 
 ## Teleport Pro
 
