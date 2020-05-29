@@ -1,9 +1,5 @@
 ---
-sidebar:
-  nav: "community"
-layout: single
 title: Network Neighborhood / Сетевое соседство
-author_profile: false
 permalink: /community/netwhood/
 ---
 

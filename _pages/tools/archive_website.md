@@ -1,10 +1,6 @@
 ---
-sidebar:
-  nav: "tools"
-layout: single
-toc: true
+toc: true  # enables table of contents
 title: Архивация веб-сайта
-author_profile: false
 permalink: /tools/archive_website/
 ---
 

@@ -1,9 +1,5 @@
 ---
-sidebar:
-  nav: "community"
-layout: single
 title: viewpoint
-author_profile: false
 permalink: /community/viewpoint/
 ---
 

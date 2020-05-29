@@ -1,9 +1,5 @@
 ---
-sidebar:
-  nav: "tools"
-layout: single
 title: Анализ веб-сайта
-author_profile: false
 permalink: /tools/analyze_website/
 ---
 

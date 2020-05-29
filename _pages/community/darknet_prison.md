@@ -1,9 +1,5 @@
 ---
-sidebar:
-  nav: "community"
-layout: single
 title: Горизонт Событий
-author_profile: false
 permalink: /community/darknet_prison/
 ---
 

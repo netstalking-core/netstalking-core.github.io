@@ -1,9 +1,5 @@
 ---
-sidebar:
-  nav: "tools"
-layout: single
 title: Поиск диапазонов IP
-author_profile: false
 permalink: /tools/ip-range/
 ---
 

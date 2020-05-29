@@ -1,9 +1,5 @@
 ---
-sidebar:
-  nav: "community"
-layout: single
 title: Точка Сбора
-author_profile: false
 permalink: /community/ts/
 ---
 

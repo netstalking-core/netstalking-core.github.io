@@ -1,9 +1,5 @@
 ---
-sidebar:
-  nav: "community"
-layout: single
 title: Asleep
-author_profile: false
 permalink: /community/asleep/
 ---
 

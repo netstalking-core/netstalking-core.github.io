@@ -1,9 +1,5 @@
 ---
-sidebar:
-  nav: "community"
-layout: single
 title: H.I.D.D.E.N
-author_profile: false
 permalink: /community/H.I.D.D.E.N/
 ---
 
